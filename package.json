@@ -1,0 +1,17 @@
+{
+  "name": "first_jenkin_project",
+  "version": "1.0.0",
+  "description": "/*",
+  "main": "index.js",
+  "scripts": {
+    "tests": "npx playwright test",
+        "report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.0"
+  }
+}
